@@ -1,0 +1,164 @@
+[
+  {
+    "head": "Ed Wood",
+    "relation": "director",
+    "tail": "Tim Burton",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc0_chunk0"
+  },
+  {
+    "head": "Ed Wood",
+    "relation": "producer",
+    "tail": "Tim Burton",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc0_chunk0"
+  },
+  {
+    "head": "Ed Wood",
+    "relation": "starring",
+    "tail": "Johnny Depp",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc0_chunk0"
+  },
+  {
+    "head": "Johnny Depp",
+    "relation": "plays character",
+    "tail": "Ed Wood",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc0_chunk0"
+  },
+  {
+    "head": "Ed Wood",
+    "relation": "concerns relationship with",
+    "tail": "Bela Lugosi",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc0_chunk0"
+  },
+  {
+    "head": "Bela Lugosi",
+    "relation": "played by",
+    "tail": "Martin Landau",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc0_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "nationality",
+    "tail": "American",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "occupation",
+    "tail": "director",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "occupation",
+    "tail": "screenwriter",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "occupation",
+    "tail": "producer",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "residence",
+    "tail": "Los Angeles",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "residence",
+    "tail": "California",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "director_of",
+    "tail": "Sinister",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "director_of",
+    "tail": "The Exorcism of Emily Rose",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "director_of",
+    "tail": "Deliver Us From Evil",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Scott Derrickson",
+    "relation": "director_of",
+    "tail": "Doctor Strange",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc1_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "is_a",
+    "tail": "census-designated place",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "located_in_county",
+    "tail": "Pulaski County",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "located_in",
+    "tail": "Arkansas",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "located_in",
+    "tail": "United States",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "population_in_2010",
+    "tail": "403",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "part_of",
+    "tail": "Little Rock–North Little Rock–Conway Metropolitan Statistical Area",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "namesake_of",
+    "tail": "Ed Wood Sr.",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson Lake",
+    "relation": "namesake_of",
+    "tail": "Ed Wood Sr.",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Wood Hollow",
+    "relation": "namesake_of",
+    "tail": "Ed Wood Sr.",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Woodson",
+    "relation": "adjacent_to",
+    "tail": "Wood Plantation",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  },
+  {
+    "head": "Wood Plantation",
+    "relation": "owner",
+    "tail": "Ed Wood Sr.",
+    "source_chunk_id": "5a8b57f25542995d1e6f1371_doc2_chunk0"
+  }
+]
