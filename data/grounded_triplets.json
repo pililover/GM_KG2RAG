@@ -985,12 +985,6 @@
   },
   {
     "head": "Kiss and Tell",
-    "relation": "publication_year",
-    "tail": "1945",
-    "source_chunk_id": "5a8c7595554299585d9e36b6_doc6_chunk0"
-  },
-  {
-    "head": "Kiss and Tell",
     "relation": "country_of_origin",
     "tail": "American",
     "source_chunk_id": "5a8c7595554299585d9e36b6_doc6_chunk0"
@@ -2365,12 +2359,6 @@
   },
   {
     "head": "Esma Sultan",
-    "relation": "occupation",
-    "tail": "Ottoman princess",
-    "source_chunk_id": "5adbf0a255429947ff17385a_doc3_chunk0"
-  },
-  {
-    "head": "Esma Sultan",
     "relation": "parent",
     "tail": "Sultan Abdul Hamid I",
     "source_chunk_id": "5adbf0a255429947ff17385a_doc3_chunk0"
@@ -2643,12 +2631,6 @@
     "head": "Esma Sultan",
     "relation": "death_date",
     "tail": "13 August 1788",
-    "source_chunk_id": "5adbf0a255429947ff17385a_doc9_chunk0"
-  },
-  {
-    "head": "Esma Sultan",
-    "relation": "occupation",
-    "tail": "Ottoman princess",
     "source_chunk_id": "5adbf0a255429947ff17385a_doc9_chunk0"
   },
   {
@@ -3921,12 +3903,6 @@
     "head": "Seventeen",
     "relation": "also_stylized_as",
     "tail": "SVT",
-    "source_chunk_id": "5abd94525542992ac4f382d2_doc8_chunk0"
-  },
-  {
-    "head": "Seventeen",
-    "relation": "country_of_origin",
-    "tail": "South Korea",
     "source_chunk_id": "5abd94525542992ac4f382d2_doc8_chunk0"
   },
   {
@@ -6054,12 +6030,6 @@
     "source_chunk_id": "5a87ab905542996e4f3088c1_doc6_chunk1"
   },
   {
-    "head": "Lewiston Maineiacs",
-    "relation": "league",
-    "tail": "QMJHL",
-    "source_chunk_id": "5a87ab905542996e4f3088c1_doc6_chunk1"
-  },
-  {
     "head": "Vancouver Giants",
     "relation": "participation_number",
     "tail": "second consecutive national junior championship",
@@ -6123,12 +6093,6 @@
     "head": "Lewiston Maineiacs",
     "relation": "home_venue",
     "tail": "Androscoggin Bank Colisée",
-    "source_chunk_id": "5a87ab905542996e4f3088c1_doc7_chunk0"
-  },
-  {
-    "head": "Lewiston Maineiacs",
-    "relation": "league",
-    "tail": "QMJHL",
     "source_chunk_id": "5a87ab905542996e4f3088c1_doc7_chunk0"
   },
   {
@@ -6225,12 +6189,6 @@
     "head": "Lewiston Maineiacs",
     "relation": "award",
     "tail": "Jean Rougeau Trophy",
-    "source_chunk_id": "5a87ab905542996e4f3088c1_doc9_chunk0"
-  },
-  {
-    "head": "Lewiston Maineiacs",
-    "relation": "award",
-    "tail": "President's Cup",
     "source_chunk_id": "5a87ab905542996e4f3088c1_doc9_chunk0"
   },
   {
@@ -7969,12 +7927,6 @@
   },
   {
     "head": "Kansas City Scout",
-    "relation": "country",
-    "tail": "United States",
-    "source_chunk_id": "5a7166395542994082a3e814_doc3_chunk0"
-  },
-  {
-    "head": "Kansas City Scout",
     "relation": "created_in",
     "tail": "2000",
     "source_chunk_id": "5a7166395542994082a3e814_doc3_chunk0"
@@ -7995,24 +7947,6 @@
     "head": "bi-state initiative",
     "relation": "between",
     "tail": "Kansas Department of Transportation",
-    "source_chunk_id": "5a7166395542994082a3e814_doc3_chunk0"
-  },
-  {
-    "head": "Kansas City Metropolitan Area",
-    "relation": "located_in",
-    "tail": "Missouri",
-    "source_chunk_id": "5a7166395542994082a3e814_doc3_chunk0"
-  },
-  {
-    "head": "Kansas City Metropolitan Area",
-    "relation": "located_in",
-    "tail": "Kansas",
-    "source_chunk_id": "5a7166395542994082a3e814_doc3_chunk0"
-  },
-  {
-    "head": "Kansas City",
-    "relation": "located_in",
-    "tail": "Missouri",
     "source_chunk_id": "5a7166395542994082a3e814_doc3_chunk0"
   },
   {
@@ -8271,18 +8205,6 @@
     "head": "Frenchmen",
     "relation": "traveled_along",
     "tail": "Missouri River",
-    "source_chunk_id": "5a7166395542994082a3e814_doc8_chunk0"
-  },
-  {
-    "head": "Kansas City metropolitan area",
-    "relation": "straddles_border",
-    "tail": "Missouri",
-    "source_chunk_id": "5a7166395542994082a3e814_doc8_chunk0"
-  },
-  {
-    "head": "Kansas City metropolitan area",
-    "relation": "straddles_border",
-    "tail": "Kansas",
     "source_chunk_id": "5a7166395542994082a3e814_doc8_chunk0"
   },
   {
@@ -10554,48 +10476,6 @@
     "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk4"
   },
   {
-    "head": "Loan holders",
-    "relation": "use",
-    "tail": "Loan assumptions",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk5"
-  },
-  {
-    "head": "Loan holders",
-    "relation": "use",
-    "tail": "Loan transfers",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk5"
-  },
-  {
-    "head": "Federal Bureau of Investigation",
-    "relation": "responded_to",
-    "tail": "lending institution violations of law",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk6"
-  },
-  {
-    "head": "Federal Trade Commission",
-    "relation": "responded_to",
-    "tail": "lending institution violations of law",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk6"
-  },
-  {
-    "head": "Comptroller",
-    "relation": "responded_to",
-    "tail": "lending institution violations of law",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk6"
-  },
-  {
-    "head": "United States Government",
-    "relation": "responded_to",
-    "tail": "lending institution violations of law",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk6"
-  },
-  {
-    "head": "State Government",
-    "relation": "responded_to",
-    "tail": "lending institution violations of law",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk6"
-  },
-  {
     "head": "legal precedents",
     "relation": "purpose",
     "tail": "address violations of laws to consumers",
@@ -10612,24 +10492,6 @@
     "relation": "purpose",
     "tail": "assist the consumers that are victims of predatory lending practices",
     "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk7"
-  },
-  {
-    "head": "loan modification",
-    "relation": "became matter of",
-    "tail": "national policy",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk7"
-  },
-  {
-    "head": "Loan Note Holder",
-    "relation": "monetary_rights",
-    "tail": "Escrow",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk8"
-  },
-  {
-    "head": "Escrow and Equity",
-    "relation": "form",
-    "tail": "Note Holders payments",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk9"
   },
   {
     "head": "Homeowners",
@@ -10680,72 +10542,6 @@
     "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk14"
   },
   {
-    "head": "institutional staff",
-    "relation": "created",
-    "tail": "fraudulent documents",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk15"
-  },
-  {
-    "head": "legal staff",
-    "relation": "created",
-    "tail": "fraudulent documents",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk15"
-  },
-  {
-    "head": "staff",
-    "relation": "raised",
-    "tail": "tax fees",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk16"
-  },
-  {
-    "head": "staff",
-    "relation": "raised",
-    "tail": "escrow",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk16"
-  },
-  {
-    "head": "staff",
-    "relation": "raised",
-    "tail": "interest",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk16"
-  },
-  {
-    "head": "Modifications",
-    "relation": "address",
-    "tail": "falsifications",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk17"
-  },
-  {
-    "head": "falsifications",
-    "relation": "include",
-    "tail": "inappropriate mortgage charges",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk17"
-  },
-  {
-    "head": "falsifications",
-    "relation": "include",
-    "tail": "filing of fraudulently deeds",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk17"
-  },
-  {
-    "head": "falsifications",
-    "relation": "include",
-    "tail": "reporting of fraudulent mortgages",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk17"
-  },
-  {
-    "head": "falsifications",
-    "relation": "include",
-    "tail": "filing of fraudulent mortgages",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk17"
-  },
-  {
-    "head": "fraudulent mortgages",
-    "relation": "status",
-    "tail": "already paid off",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk17"
-  },
-  {
     "head": "lenders staff",
     "relation": "continue",
     "tail": "fraudulent mortgages",
@@ -10780,12 +10576,6 @@
     "relation": "given_to",
     "tail": "staff in the Real Estate Market",
     "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk18"
-  },
-  {
-    "head": "loan holders",
-    "relation": "action",
-    "tail": "default",
-    "source_chunk_id": "5ab56e32554299637185c594_doc8_chunk19"
   },
   {
     "head": "scams",
@@ -11815,12 +11605,6 @@
   },
   {
     "head": "Alexander Matthew Busby",
-    "relation": "managed",
-    "tail": "Manchester United",
-    "source_chunk_id": "5ab6d09255429954757d337d_doc8_chunk0"
-  },
-  {
-    "head": "Alexander Matthew Busby",
     "relation": "start_year",
     "tail": "1970",
     "source_chunk_id": "5ab6d09255429954757d337d_doc8_chunk0"
@@ -12391,18 +12175,6 @@
   },
   {
     "head": "Higgins Lake",
-    "relation": "location",
-    "tail": "Roscommon County",
-    "source_chunk_id": "5a75e05c55429976ec32bc5f_doc7_chunk0"
-  },
-  {
-    "head": "Higgins Lake",
-    "relation": "location",
-    "tail": "Michigan",
-    "source_chunk_id": "5a75e05c55429976ec32bc5f_doc7_chunk0"
-  },
-  {
-    "head": "Higgins Lake",
     "relation": "area",
     "tail": "9900 acre",
     "source_chunk_id": "5a75e05c55429976ec32bc5f_doc7_chunk0"
@@ -12858,12 +12630,6 @@
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc2_chunk0"
   },
   {
-    "head": "Catamounts",
-    "relation": "coached_by",
-    "tail": "John Becker",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc2_chunk0"
-  },
-  {
     "head": "John Becker",
     "relation": "position",
     "tail": "head coach",
@@ -12873,12 +12639,6 @@
     "head": "Catamounts",
     "relation": "home_games_location",
     "tail": "Patrick Gym",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc2_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "member_of",
-    "tail": "America East Conference",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc2_chunk0"
   },
   {
@@ -12903,12 +12663,6 @@
     "head": "Catamounts",
     "relation": "advanced_to",
     "tail": "semifinals of the America East Conference Tournament",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc2_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "lost_to",
-    "tail": "Albany",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc2_chunk0"
   },
   {
@@ -13099,32 +12853,8 @@
   },
   {
     "head": "Catamounts",
-    "relation": "coached_by",
-    "tail": "John Becker",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc6_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "home_venue",
-    "tail": "Patrick Gym",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc6_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "member_of",
-    "tail": "America East Conference",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc6_chunk0"
-  },
-  {
-    "head": "Catamounts",
     "relation": "finish_record",
     "tail": "23–14",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc6_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "conference_record",
-    "tail": "11–5",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc6_chunk0"
   },
   {
@@ -13201,20 +12931,8 @@
   },
   {
     "head": "John Becker",
-    "relation": "position",
-    "tail": "head coach",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
-  },
-  {
-    "head": "John Becker",
     "relation": "coaching_years",
     "tail": "sixth-year",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "home_games_location",
-    "tail": "Patrick Gym",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
   },
   {
@@ -13227,12 +12945,6 @@
     "head": "Patrick Gym",
     "relation": "located_in",
     "tail": "Vermont",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "member_of",
-    "tail": "America East Conference",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
   },
   {
@@ -13251,12 +12963,6 @@
     "head": "Catamounts",
     "relation": "conference",
     "tail": "America East",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "won",
-    "tail": "America East regular season championship",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc7_chunk0"
   },
   {
@@ -13329,30 +13035,6 @@
     "head": "2011–12 Vermont Catamounts men's basketball team",
     "relation": "sport",
     "tail": "NCAA Division I men's basketball",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc8_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "coached_by",
-    "tail": "John Becker",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc8_chunk0"
-  },
-  {
-    "head": "John Becker",
-    "relation": "position",
-    "tail": "head coach",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc8_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "home_venue",
-    "tail": "Patrick Gym",
-    "source_chunk_id": "5ab3e45655429976abd1bcd4_doc8_chunk0"
-  },
-  {
-    "head": "Catamounts",
-    "relation": "member_of",
-    "tail": "America East Conference",
     "source_chunk_id": "5ab3e45655429976abd1bcd4_doc8_chunk0"
   },
   {
@@ -14682,12 +14364,6 @@
     "source_chunk_id": "5ae0d4c9554299603e418468_doc4_chunk1"
   },
   {
-    "head": "Hood",
-    "relation": "employer",
-    "tail": "United States Department of Defense",
-    "source_chunk_id": "5ae0d4c9554299603e418468_doc4_chunk1"
-  },
-  {
     "head": "Robert D. Hormats",
     "relation": "current_position",
     "tail": "Vice Chairman of Kissinger Associates",
@@ -15433,12 +15109,6 @@
   },
   {
     "head": "Erskine Hamilton Childers",
-    "relation": "position",
-    "tail": "fourth President of Ireland",
-    "source_chunk_id": "5a8133725542995ce29dcbdb_doc4_chunk0"
-  },
-  {
-    "head": "Erskine Hamilton Childers",
     "relation": "start_time",
     "tail": "1973",
     "source_chunk_id": "5a8133725542995ce29dcbdb_doc4_chunk0"
@@ -15483,12 +15153,6 @@
     "head": "Robert Caesar Childers",
     "relation": "grandfather_of",
     "tail": "Erskine Hamilton Childers",
-    "source_chunk_id": "5a8133725542995ce29dcbdb_doc5_chunk0"
-  },
-  {
-    "head": "Erskine Hamilton Childers",
-    "relation": "position",
-    "tail": "fourth President of Ireland",
     "source_chunk_id": "5a8133725542995ce29dcbdb_doc5_chunk0"
   },
   {
@@ -15556,18 +15220,6 @@
     "relation": "killed_during",
     "tail": "Irish Civil War",
     "source_chunk_id": "5a8133725542995ce29dcbdb_doc6_chunk0"
-  },
-  {
-    "head": "Robert Caesar Childers",
-    "relation": "occupation",
-    "tail": "British Orientalist scholar",
-    "source_chunk_id": "5a8133725542995ce29dcbdb_doc6_chunk1"
-  },
-  {
-    "head": "Erskine Hamilton Childers",
-    "relation": "position",
-    "tail": "fourth President of Ireland",
-    "source_chunk_id": "5a8133725542995ce29dcbdb_doc6_chunk1"
   },
   {
     "head": "Robert Caesar Childers",
@@ -15678,22 +15330,10 @@
     "source_chunk_id": "5a8133725542995ce29dcbdb_doc8_chunk0"
   },
   {
-    "head": "Erskine Hamilton Childers",
-    "relation": "position",
-    "tail": "fourth President of Ireland",
-    "source_chunk_id": "5a8133725542995ce29dcbdb_doc8_chunk0"
-  },
-  {
     "head": "Erskine Barton Childers",
     "relation": "mother",
     "tail": "Ruth Ellen Dow Childers",
     "source_chunk_id": "5a8133725542995ce29dcbdb_doc8_chunk0"
-  },
-  {
-    "head": "Mary Alden Childers",
-    "relation": "spouse",
-    "tail": "Robert Erskine Childers",
-    "source_chunk_id": "5a8133725542995ce29dcbdb_doc8_chunk1"
   },
   {
     "head": "Robert Erskine Childers",
@@ -15975,12 +15615,6 @@
     "head": "Catharina Felser",
     "relation": "competed_in",
     "tail": "German Formula Ford",
-    "source_chunk_id": "5ae7a8175542993210983ed8_doc1_chunk0"
-  },
-  {
-    "head": "Catharina Felser",
-    "relation": "year",
-    "tail": "2000",
     "source_chunk_id": "5ae7a8175542993210983ed8_doc1_chunk0"
   },
   {
@@ -17805,12 +17439,6 @@
     "head": "MacScan",
     "relation": "type",
     "tail": "anti-spyware program",
-    "source_chunk_id": "5adddccd5542997dc7907069_doc7_chunk0"
-  },
-  {
-    "head": "MacScan",
-    "relation": "operating_system",
-    "tail": "Mac OS X",
     "source_chunk_id": "5adddccd5542997dc7907069_doc7_chunk0"
   },
   {
@@ -20613,12 +20241,6 @@
     "head": "Rams",
     "relation": "defeated",
     "tail": "UNC Wilmington",
-    "source_chunk_id": "5adf37a95542995ec70e8f97_doc9_chunk1"
-  },
-  {
-    "head": "Rams",
-    "relation": "lost_to",
-    "tail": "Old Dominion",
     "source_chunk_id": "5adf37a95542995ec70e8f97_doc9_chunk1"
   },
   {
@@ -25216,12 +24838,6 @@
     "relation": "has_number_of_compilations",
     "tail": "three",
     "source_chunk_id": "5a7cc50e554299452d57ba3e_doc7_chunk0"
-  },
-  {
-    "head": "Screaming Trees",
-    "relation": "genre",
-    "tail": "rock band",
-    "source_chunk_id": "5a7cc50e554299452d57ba3e_doc8_chunk0"
   },
   {
     "head": "Screaming Trees",
@@ -31729,12 +31345,6 @@
   },
   {
     "head": "Battle of Adwa",
-    "relation": "also_known_as",
-    "tail": "Adua",
-    "source_chunk_id": "5ab2d3df554299194fa9352c_doc5_chunk0"
-  },
-  {
-    "head": "Battle of Adwa",
     "relation": "date",
     "tail": "2 March 1896",
     "source_chunk_id": "5ab2d3df554299194fa9352c_doc5_chunk0"
@@ -32467,12 +32077,6 @@
   },
   {
     "head": "Person",
-    "relation": "member_of",
-    "tail": "East Allen Township Municipal Authority",
-    "source_chunk_id": "5a760ab65542994ccc918697_doc3_chunk1"
-  },
-  {
-    "head": "Person",
     "relation": "start_year",
     "tail": "2007",
     "source_chunk_id": "5a760ab65542994ccc918697_doc3_chunk1"
@@ -32493,12 +32097,6 @@
     "head": "Person",
     "relation": "start_year",
     "tail": "2011",
-    "source_chunk_id": "5a760ab65542994ccc918697_doc3_chunk1"
-  },
-  {
-    "head": "Person",
-    "relation": "end_year",
-    "tail": "2013",
     "source_chunk_id": "5a760ab65542994ccc918697_doc3_chunk1"
   },
   {
@@ -33780,12 +33378,6 @@
     "source_chunk_id": "5a7d54165542995f4f402256_doc7_chunk0"
   },
   {
-    "head": "Dirleton Castle",
-    "relation": "located_in",
-    "tail": "East Lothian",
-    "source_chunk_id": "5a7d54165542995f4f402256_doc7_chunk0"
-  },
-  {
     "head": "St. Mary's Priory",
     "relation": "location",
     "tail": "North Berwick",
@@ -34179,12 +33771,6 @@
     "head": "Live in Japan",
     "relation": "instrument",
     "tail": "pianist",
-    "source_chunk_id": "5ab859a955429934fafe6d7b_doc3_chunk0"
-  },
-  {
-    "head": "Live in Japan",
-    "relation": "instrument",
-    "tail": "saxophonist",
     "source_chunk_id": "5ab859a955429934fafe6d7b_doc3_chunk0"
   },
   {
@@ -35964,12 +35550,6 @@
     "source_chunk_id": "5a8e068b5542995085b37384_doc5_chunk2"
   },
   {
-    "head": "calyx",
-    "relation": "composed_of",
-    "tail": "fused sepals",
-    "source_chunk_id": "5a8e068b5542995085b37384_doc5_chunk2"
-  },
-  {
     "head": "pistils",
     "relation": "color",
     "tail": "white",
@@ -36336,12 +35916,6 @@
     "source_chunk_id": "5abbf698554299114383a0b5_doc2_chunk1"
   },
   {
-    "head": "Canberra",
-    "relation": "became_first_jet-powered_bomber_of",
-    "tail": "Royal Air Force",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc2_chunk1"
-  },
-  {
     "head": "Asiatic-Pacific Theater",
     "relation": "theater_of_operations",
     "tail": "U.S. forces during World War II in the Pacific War",
@@ -36532,42 +36106,6 @@
     "relation": "included",
     "tail": "western part of the Solomon Islands",
     "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk0"
-  },
-  {
-    "head": "SWPA",
-    "relation": "consisted_of",
-    "tail": "United States forces",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk1"
-  },
-  {
-    "head": "SWPA",
-    "relation": "consisted_of",
-    "tail": "Australian forces",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk1"
-  },
-  {
-    "head": "Dutch forces",
-    "relation": "served_in",
-    "tail": "SWPA",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk1"
-  },
-  {
-    "head": "Filipino forces",
-    "relation": "served_in",
-    "tail": "SWPA",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk1"
-  },
-  {
-    "head": "British forces",
-    "relation": "served_in",
-    "tail": "SWPA",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk1"
-  },
-  {
-    "head": "Allied forces",
-    "relation": "served_in",
-    "tail": "SWPA",
-    "source_chunk_id": "5abbf698554299114383a0b5_doc5_chunk1"
   },
   {
     "head": "SWPA",
@@ -37074,12 +36612,6 @@
     "source_chunk_id": "5a8e1027554299653c1aa15f_doc6_chunk0"
   },
   {
-    "head": "Folsom Field",
-    "relation": "located_in",
-    "tail": "Boulder",
-    "source_chunk_id": "5a8e1027554299653c1aa15f_doc6_chunk0"
-  },
-  {
     "head": "2011 Colorado Buffaloes football team",
     "relation": "conference",
     "tail": "Pac-12 Conference",
@@ -37467,12 +36999,6 @@
     "head": "Uno-X",
     "relation": "acquired_in",
     "tail": "Denmark",
-    "source_chunk_id": "5ab84bf555429916710eb01f_doc7_chunk0"
-  },
-  {
-    "head": "Uno-X",
-    "relation": "acquired_by",
-    "tail": "Norsk Hydro",
     "source_chunk_id": "5ab84bf555429916710eb01f_doc7_chunk0"
   },
   {
@@ -39030,12 +38556,6 @@
     "source_chunk_id": "5ab96ab755429970cfb8eacd_doc4_chunk0"
   },
   {
-    "head": "Delirium",
-    "relation": "publication_year",
-    "tail": "2015",
-    "source_chunk_id": "5ab96ab755429970cfb8eacd_doc4_chunk0"
-  },
-  {
     "head": "Army",
     "relation": "release_date",
     "tail": "9 January 2016",
@@ -39063,12 +38583,6 @@
     "head": "Ellie Goulding",
     "relation": "album",
     "tail": "Delirium",
-    "source_chunk_id": "5ab96ab755429970cfb8eacd_doc5_chunk0"
-  },
-  {
-    "head": "Delirium",
-    "relation": "publication_year",
-    "tail": "2015",
     "source_chunk_id": "5ab96ab755429970cfb8eacd_doc5_chunk0"
   },
   {
@@ -39247,12 +38761,6 @@
   },
   {
     "head": "Delirium",
-    "relation": "artist",
-    "tail": "Ellie Goulding",
-    "source_chunk_id": "5ab96ab755429970cfb8eacd_doc7_chunk0"
-  },
-  {
-    "head": "Delirium",
     "relation": "release_date",
     "tail": "6 November 2015",
     "source_chunk_id": "5ab96ab755429970cfb8eacd_doc7_chunk0"
@@ -39303,12 +38811,6 @@
     "head": "Something in the Way You Move",
     "relation": "part of album",
     "tail": "Delirium",
-    "source_chunk_id": "5ab96ab755429970cfb8eacd_doc8_chunk0"
-  },
-  {
-    "head": "Delirium",
-    "relation": "publication_year",
-    "tail": "2015",
     "source_chunk_id": "5ab96ab755429970cfb8eacd_doc8_chunk0"
   },
   {
@@ -39537,12 +39039,6 @@
     "head": "Sainik School Balachadi",
     "relation": "purpose",
     "tail": "public education",
-    "source_chunk_id": "5a8a43eb5542996c9b8d5e82_doc0_chunk0"
-  },
-  {
-    "head": "Sainik School Balachadi",
-    "relation": "location",
-    "tail": "Gujarat",
     "source_chunk_id": "5a8a43eb5542996c9b8d5e82_doc0_chunk0"
   },
   {
@@ -41964,12 +41460,6 @@
     "source_chunk_id": "5ae32e125542991a06ce9946_doc2_chunk0"
   },
   {
-    "head": "national census",
-    "relation": "census_year",
-    "tail": "2001",
-    "source_chunk_id": "5ae32e125542991a06ce9946_doc2_chunk0"
-  },
-  {
     "head": "Hindus",
     "relation": "percentage_of_population",
     "tail": "9.2 per cent",
@@ -43177,12 +42667,6 @@
   },
   {
     "head": "Charlotte Bobcats",
-    "relation": "establishment_year",
-    "tail": "2004",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc3_chunk1"
-  },
-  {
-    "head": "Charlotte Bobcats",
     "relation": "first_participated_in",
     "tail": "2004 NBA draft",
     "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc3_chunk1"
@@ -43400,12 +42884,6 @@
   {
     "head": "Charlotte Hornets",
     "relation": "location",
-    "tail": "Charlotte",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc6_chunk0"
-  },
-  {
-    "head": "Charlotte Hornets",
-    "relation": "location",
     "tail": "North Carolina",
     "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc6_chunk0"
   },
@@ -43443,12 +42921,6 @@
     "head": "Charlotte Hornets",
     "relation": "end_year",
     "tail": "2002",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc6_chunk0"
-  },
-  {
-    "head": "Charlotte Hornets",
-    "relation": "relocated_to",
-    "tail": "New Orleans",
     "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc6_chunk0"
   },
   {
@@ -43534,30 +43006,6 @@
     "relation": "return_year",
     "tail": "2004",
     "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc6_chunk2"
-  },
-  {
-    "head": "Charlotte Hornets",
-    "relation": "sport",
-    "tail": "basketball",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc7_chunk0"
-  },
-  {
-    "head": "Charlotte Hornets",
-    "relation": "league",
-    "tail": "National Basketball Association",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc7_chunk0"
-  },
-  {
-    "head": "Charlotte Hornets",
-    "relation": "conference",
-    "tail": "Eastern Conference",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc7_chunk0"
-  },
-  {
-    "head": "Charlotte Hornets",
-    "relation": "division",
-    "tail": "Southeast Division",
-    "source_chunk_id": "5a8b20335542996c9b8d5fb3_doc7_chunk0"
   },
   {
     "head": "Charlotte Hornets",
@@ -44227,12 +43675,6 @@
   },
   {
     "head": "Alien",
-    "relation": "publication_year",
-    "tail": "1979",
-    "source_chunk_id": "5a85fb085542994775f606de_doc6_chunk0"
-  },
-  {
-    "head": "Alien",
     "relation": "genre",
     "tail": "science-fiction horror film",
     "source_chunk_id": "5a85fb085542994775f606de_doc6_chunk0"
@@ -44511,12 +43953,6 @@
     "head": "Jerry Goldsmith",
     "relation": "award",
     "tail": "BMI Film Music Award",
-    "source_chunk_id": "5a85fb085542994775f606de_doc8_chunk1"
-  },
-  {
-    "head": "Alien",
-    "relation": "composer",
-    "tail": "Jerry Goldsmith",
     "source_chunk_id": "5a85fb085542994775f606de_doc8_chunk1"
   },
   {
@@ -48420,18 +47856,6 @@
     "source_chunk_id": "5ae5aba0554299546bf82f17_doc5_chunk0"
   },
   {
-    "head": "Teen Titans",
-    "relation": "production_company",
-    "tail": "DC Entertainment",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc5_chunk0"
-  },
-  {
-    "head": "Teen Titans",
-    "relation": "production_company",
-    "tail": "Warner Bros. Animation",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc5_chunk0"
-  },
-  {
     "head": "Scott Menville",
     "relation": "voice_actor_in",
     "tail": "Teen Titans",
@@ -48541,12 +47965,6 @@
   },
   {
     "head": "Teen Titans",
-    "relation": "publisher",
-    "tail": "DC Comics",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc7_chunk0"
-  },
-  {
-    "head": "Teen Titans",
     "relation": "genre",
     "tail": "superhero team",
     "source_chunk_id": "5ae5aba0554299546bf82f17_doc7_chunk0"
@@ -48616,30 +48034,6 @@
     "relation": "real_name",
     "tail": "Donna Troy",
     "source_chunk_id": "5ae5aba0554299546bf82f17_doc7_chunk1"
-  },
-  {
-    "head": "Tara Strong",
-    "relation": "birth_name",
-    "tail": "Tara Lyn Charendoff",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc8_chunk0"
-  },
-  {
-    "head": "Tara Strong",
-    "relation": "nationality",
-    "tail": "Canadian",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc8_chunk0"
-  },
-  {
-    "head": "Tara Strong",
-    "relation": "nationality",
-    "tail": "American",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc8_chunk0"
-  },
-  {
-    "head": "Tara Strong",
-    "relation": "occupation",
-    "tail": "actress",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc8_chunk0"
   },
   {
     "head": "Tara Strong",
@@ -48714,39 +48108,9 @@
     "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
   },
   {
-    "head": "DC comics series",
-    "relation": "creator",
-    "tail": "Bob Haney",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
-  },
-  {
-    "head": "DC comics series",
-    "relation": "creator",
-    "tail": "Bruno Premiani",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
-  },
-  {
-    "head": "Teen Titans",
-    "relation": "developed_by",
-    "tail": "David Slack",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
-  },
-  {
     "head": "Teen Titans",
     "relation": "network",
     "tail": "Cartoon Network",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
-  },
-  {
-    "head": "Teen Titans",
-    "relation": "production_company",
-    "tail": "DC Entertainment",
-    "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
-  },
-  {
-    "head": "Teen Titans",
-    "relation": "production_company",
-    "tail": "Warner Bros. Animation",
     "source_chunk_id": "5ae5aba0554299546bf82f17_doc9_chunk0"
   },
   {
@@ -49951,12 +49315,6 @@
   },
   {
     "head": "Romeo + Juliet",
-    "relation": "director",
-    "tail": "Baz Luhrmann",
-    "source_chunk_id": "5ae37c765542992f92d822d4_doc2_chunk0"
-  },
-  {
-    "head": "Romeo + Juliet",
     "relation": "co-producer",
     "tail": "Gabriella Martinelli",
     "source_chunk_id": "5ae37c765542992f92d822d4_doc2_chunk0"
@@ -50052,12 +49410,6 @@
     "source_chunk_id": "5ae37c765542992f92d822d4_doc3_chunk0"
   },
   {
-    "head": "Romeo and Juliet",
-    "relation": "author",
-    "tail": "William Shakespeare",
-    "source_chunk_id": "5ae37c765542992f92d822d4_doc3_chunk0"
-  },
-  {
     "head": "Romeo",
     "relation": "member_of",
     "tail": "Montague",
@@ -50097,12 +49449,6 @@
     "head": "Romeo and Juliet",
     "relation": "time_period",
     "tail": "16th century",
-    "source_chunk_id": "5ae37c765542992f92d822d4_doc4_chunk0"
-  },
-  {
-    "head": "Romeo and Juliet",
-    "relation": "author",
-    "tail": "William Shakespeare",
     "source_chunk_id": "5ae37c765542992f92d822d4_doc4_chunk0"
   },
   {
@@ -50347,12 +49693,6 @@
   },
   {
     "head": "Romeo × Juliet",
-    "relation": "based_on",
-    "tail": "Romeo and Juliet",
-    "source_chunk_id": "5ae37c765542992f92d822d4_doc6_chunk0"
-  },
-  {
-    "head": "Romeo × Juliet",
     "relation": "broadcast_by",
     "tail": "Chubu-Nippon",
     "source_chunk_id": "5ae37c765542992f92d822d4_doc6_chunk0"
@@ -50415,12 +49755,6 @@
     "head": "James Gunn",
     "relation": "screenwriter_for",
     "tail": "Tromeo and Juliet",
-    "source_chunk_id": "5ae37c765542992f92d822d4_doc7_chunk0"
-  },
-  {
-    "head": "Tromeo and Juliet",
-    "relation": "publication_year",
-    "tail": "1996",
     "source_chunk_id": "5ae37c765542992f92d822d4_doc7_chunk0"
   },
   {
@@ -51622,12 +50956,6 @@
     "relation": "stated_at",
     "tail": "Pilgrimage Festival",
     "source_chunk_id": "5a8979f4554299669944a52e_doc8_chunk1"
-  },
-  {
-    "head": "English-speaking American culture",
-    "relation": "applies term to",
-    "tail": "middle name",
-    "source_chunk_id": "5a8979f4554299669944a52e_doc9_chunk1"
   },
   {
     "head": "English-speaking American culture",
@@ -53272,24 +52600,6 @@
     "relation": "considered_as",
     "tail": "11th album by APP fans",
     "source_chunk_id": "5abdf12255429976d4830a2f_doc6_chunk0"
-  },
-  {
-    "head": "Alan Parsons",
-    "relation": "released",
-    "tail": "Try Anything Once",
-    "source_chunk_id": "5abdf12255429976d4830a2f_doc6_chunk1"
-  },
-  {
-    "head": "Try Anything Once",
-    "relation": "release_year",
-    "tail": "1993",
-    "source_chunk_id": "5abdf12255429976d4830a2f_doc6_chunk1"
-  },
-  {
-    "head": "Try Anything Once",
-    "relation": "continued_musical_direction_from",
-    "tail": "Gaudi",
-    "source_chunk_id": "5abdf12255429976d4830a2f_doc6_chunk1"
   },
   {
     "head": "Alan Parsons",
@@ -55080,12 +54390,6 @@
     "source_chunk_id": "5aba5d2e55429901930fa799_doc8_chunk0"
   },
   {
-    "head": "Monica Samille Lewinsky",
-    "relation": "profession",
-    "tail": "American activist",
-    "source_chunk_id": "5aba5d2e55429901930fa799_doc8_chunk0"
-  },
-  {
     "head": "Lewinsky scandal",
     "relation": "involved",
     "tail": "Bill Clinton",
@@ -55144,12 +54448,6 @@
     "relation": "impeachment_year",
     "tail": "1998",
     "source_chunk_id": "5aba5d2e55429901930fa799_doc9_chunk0"
-  },
-  {
-    "head": "Bill Clinton",
-    "relation": "impeached_by",
-    "tail": "U.S. House of Representatives",
-    "source_chunk_id": "5aba5d2e55429901930fa799_doc9_chunk1"
   },
   {
     "head": "Bill Clinton",
@@ -55614,18 +54912,6 @@
     "source_chunk_id": "5ae5736e5542990ba0bbb2b3_doc9_chunk2"
   },
   {
-    "head": "Trump",
-    "relation": "questioned_estimate",
-    "tail": "between 11 and 12 million",
-    "source_chunk_id": "5ae5736e5542990ba0bbb2b3_doc9_chunk2"
-  },
-  {
-    "head": "Trump",
-    "relation": "insisted_number",
-    "tail": "between 30 and 34 million",
-    "source_chunk_id": "5ae5736e5542990ba0bbb2b3_doc9_chunk2"
-  },
-  {
     "head": "Crime and Punishment",
     "relation": "original_title",
     "tail": "Преступлéние и наказáние",
@@ -55971,12 +55257,6 @@
     "head": "Tenerife",
     "relation": "located_in",
     "tail": "Canary Islands",
-    "source_chunk_id": "5a7759fc5542993569682d60_doc2_chunk0"
-  },
-  {
-    "head": "Canary Islands",
-    "relation": "located_in",
-    "tail": "Spain",
     "source_chunk_id": "5a7759fc5542993569682d60_doc2_chunk0"
   },
   {
@@ -56348,12 +55628,6 @@
   {
     "head": "Queen's Birthday Honours",
     "relation": "announcement_date",
-    "tail": "14 June 2014",
-    "source_chunk_id": "5a7625e8554299109176e66a_doc1_chunk1"
-  },
-  {
-    "head": "Queen's Birthday Honours",
-    "relation": "announcement_date",
     "tail": "Grenada",
     "source_chunk_id": "5a7625e8554299109176e66a_doc1_chunk1"
   },
@@ -56478,22 +55752,10 @@
     "source_chunk_id": "5ae2dd2055429928c423950d_doc7_chunk0"
   },
   {
-    "head": "Sullivan County",
-    "relation": "located_in",
-    "tail": "New Hampshire",
-    "source_chunk_id": "5ae2dd2055429928c423950d_doc7_chunk0"
-  },
-  {
     "head": "New Hampshire",
     "relation": "located_in",
     "tail": "United States",
     "source_chunk_id": "5ae2dd2055429928c423950d_doc7_chunk0"
-  },
-  {
-    "head": "Lempster",
-    "relation": "located_in",
-    "tail": "Sullivan County",
-    "source_chunk_id": "5ae2dd2055429928c423950d_doc9_chunk0"
   },
   {
     "head": "Lempster",
@@ -57165,12 +56427,6 @@
     "head": "island of Tenerife",
     "relation": "part_of",
     "tail": "Canary Islands",
-    "source_chunk_id": "5a7759fc5542993569682d60_doc5_chunk0"
-  },
-  {
-    "head": "Canary Islands",
-    "relation": "located_in",
-    "tail": "Spain",
     "source_chunk_id": "5a7759fc5542993569682d60_doc5_chunk0"
   },
   {
@@ -58101,12 +57357,6 @@
     "head": "A World Apart",
     "relation": "writer",
     "tail": "Shawn Slovo",
-    "source_chunk_id": "5aba749055429901930fa7d8_doc5_chunk0"
-  },
-  {
-    "head": "A World Apart",
-    "relation": "director",
-    "tail": "Chris Menges",
     "source_chunk_id": "5aba749055429901930fa7d8_doc5_chunk0"
   },
   {
@@ -59994,12 +59244,6 @@
     "source_chunk_id": "5ae224da554299234fd043ee_doc8_chunk0"
   },
   {
-    "head": "Zurracapote",
-    "relation": "similar_to",
-    "tail": "sangría",
-    "source_chunk_id": "5ae224da554299234fd043ee_doc8_chunk0"
-  },
-  {
     "head": "London International Documentary Festival",
     "relation": "is",
     "tail": "annual documentary film festival",
@@ -60729,12 +59973,6 @@
     "head": "McLean",
     "relation": "is_a",
     "tail": "census-designated place",
-    "source_chunk_id": "5a80b3a9554299485f5986cc_doc8_chunk0"
-  },
-  {
-    "head": "McLean",
-    "relation": "located_in",
-    "tail": "Fairfax County",
     "source_chunk_id": "5a80b3a9554299485f5986cc_doc8_chunk0"
   },
   {
@@ -62479,12 +61717,6 @@
   },
   {
     "head": "Wolong Special Administrative Region",
-    "relation": "located_in",
-    "tail": "Sichuan",
-    "source_chunk_id": "5adccd795542990d50227d2c_doc6_chunk0"
-  },
-  {
-    "head": "Wolong Special Administrative Region",
     "relation": "former_name",
     "tail": "Wolong Special Administrative Region of Wenchuan County",
     "source_chunk_id": "5adccd795542990d50227d2c_doc6_chunk0"
@@ -62919,12 +62151,6 @@
     "head": "Mount Taimu Railway Station",
     "relation": "operated_by",
     "tail": "Nanchang Railway Bureau",
-    "source_chunk_id": "5a84c4135542994c784dda31_doc7_chunk0"
-  },
-  {
-    "head": "Nanchang Railway Bureau",
-    "relation": "parent_organization",
-    "tail": "China Railway Corporation",
     "source_chunk_id": "5a84c4135542994c784dda31_doc7_chunk0"
   },
   {
